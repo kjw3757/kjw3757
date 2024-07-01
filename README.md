@@ -1,16 +1,27 @@
-## Hi there 👋
+## 안녕하세요! 긍정적인 태도로 매사 성실하게 임하는 김지우입니다
 
-<!--
-**kjw3757/kjw3757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+'''
+수평선
+***
 
-Here are some ideas to get you started:
+- Python 기반 주니어 데이터 분석가입니다.
+- SQL도 다루어 보았습니다.
+- 이커머스, 마켓팅, 스포츠 데이터 분석에 관심이 많습니다.
+- AWS를 공부중입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**굵게**
+
+> 하고 싶은 일이 뭔지 정확히 알고 목표를 달성하기 위해 적극적인 마인드를 갖춘 분입니다. 긍정적이면서 도전적인 부분도 지우님이 장점이죠.
+> 팀 의견이 산으로 갈때마다 항상 다시 중심으로 다시 잘 이끌어주시고 여러 의견을 잘 모아 정리 해 주 실 줄 아는  센스있는 사람! 다른 의견도 너무 잘 들어주는 리더 역할에 진짜 소질있는 분!
+
+
+1. 순서가 있는 목록
+2. ㅇㅇㅇ
+
+```
+코드작성
+print('헬로')
+```
+
+[노션으로 이동](https://naver.com)
+[이미지 사이트](imgur.com)
